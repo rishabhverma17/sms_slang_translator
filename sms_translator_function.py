@@ -16,7 +16,7 @@ def translator(user_string):
         # File Access mode [Read Mode]
         accessMode = "r"
         with open(fileName, accessMode) as myCSVfile:
-            # Reading file as CSV with delimiter as "=", so that slang are stored in row[0] and abbreviation in row[1]
+            # Reading file as CSV with delimiter as "=", so that abbreviation are stored in row[0] and phrases in row[1]
             dataFromFile = csv.reader(myCSVfile, delimiter="=")
             # Removing Special Characters.
             _str = re.sub('[^a-zA-Z0-9-_.]', '', _str)
