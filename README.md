@@ -1,4 +1,4 @@
-# sms_slag_translator
+# SMS/Message_Slang_Translator
 ## Python Script to abbreviate slangs
 This script takes input from user and finds any slangs available in it as described in text file, If found it will replace it with its abbreviation.
 
