@@ -6,4 +6,4 @@ This script takes input from user and finds any slangs available in it as descri
 ![Text File](https://github.com/rishabhverma17/sms_slag_translator/blob/master/Screenshot%20(160).png)
 
 ## Running Script
-![Script Running](https://github.com/rishabhverma17/sms_slag_translator/blob/master/Screenshot%20(159)_LI.jpg)
+![Script Running](https://github.com/rishabhverma17/sms_slang_translator/blob/master/Output.jpg)
