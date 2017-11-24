@@ -23,7 +23,7 @@
         # File Access mode [Read Mode]
         accessMode = "r"
         with open(fileName, accessMode) as myCSVfile:
-            # Reading file as CSV with delimiter as "=", so that slang are stored in row[0] and abbreviation in row[1]
+            # Reading file as CSV with delimiter as "=", so that abbreviation are stored in row[0] and phrases in row[1]
             dataFromFile = csv.reader(myCSVfile, delimiter="=")
             # Removing Special Characters.
             _str = re.sub('[^a-zA-Z0-9-_.]', '', _str)
@@ -38,7 +38,7 @@
     print(' '.join(user_string))
 ```
 ## Python Script to abbreviate slangs
-This script takes input from user and finds any slangs available in it as described in text file, If found it will replace it with its abbreviation.
+This script takes input from user and finds any abbreviation available in it as described in text file, If found it will replace it with its corresponding phrase.
 
 ## Text File with abbreviations :
 ![Text File](https://github.com/rishabhverma17/sms_slag_translator/blob/master/Screenshot%20(160).png)
