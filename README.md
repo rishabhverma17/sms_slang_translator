@@ -1,10 +1,12 @@
 # SMS/Message_Slang_Translator
 
 ## How to Run
-In Terminal or Command Prompt
+- In Terminal or Command Prompt
 ```
   python sms_translator_function.py
 ```
+- Enter Message like "Hey Rishabh brb!!"
+  - Result would be --> Hey Rishabh Be Right Back
 
 ## Main Working logic
 ```python
