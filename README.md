@@ -6,7 +6,11 @@
   python sms_translator_function.py
 ```
 - Enter Message like "Hey Rishabh brb!!"
-  - Result would be --> Hey Rishabh Be Right Back
+- Result would be --> Hey Rishabh Be Right Back
+  ```
+    userInput = Hey Rishabh brb!!
+    output = Hey Rishabh Be Right Back
+  ```
 
 ## Main Working logic
 ```python
