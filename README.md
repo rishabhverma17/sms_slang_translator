@@ -45,3 +45,6 @@ This script takes input from user and finds any abbreviation available in it as 
 
 ## Running Script
 ![Script Running](https://github.com/rishabhverma17/sms_slang_translator/blob/master/Output.jpg)
+
+## Tutorial
+https://medium.com/nerd-stuff/python-script-to-turn-text-message-abbreviations-into-actual-phrases-d5db6f489222
