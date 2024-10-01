@@ -47,7 +47,6 @@ OIC=Oh I See
 PITA=Pain In The A..
 PRT=Party
 PRW=Parents Are Watching
-QPSA?	Que Pasa?
 ROFL=Rolling On The Floor Laughing
 ROFLOL=Rolling On The Floor Laughing Out Loud
 ROTFLMAO=Rolling On The Floor Laughing My A.. Off
@@ -66,25 +65,24 @@ WTG=Way To Go!
 WUF=Where Are You From?
 W8=Wait...
 7K=Sick:-D Laugher
-TFW – That feeling when. TFW internet slang often goes in a caption to an image.
-MFW – My face when
-MRW – My reaction when
-IFYP – I feel your pain
-LOL – Laughing out loud
-TNTL – Trying not to laugh
-JK – Just kidding
-IDC – I don’t care
-ILY – I love you
-IMU – I miss you
-ADIH – Another day in hell
-IDC – I don’t care
-ZZZ – Sleeping, bored, tired
-WYWH – Wish you were here
-TIME – Tears in my eyes
-BAE – Before anyone else
-FIMH – Forever in my heart
-BSAAW – Big smile and a wink
-BWL – Bursting with laughter
-LMAO – Laughing my a** off
-BFF: Best friends forever
-CSL – Can’t stop laughing
+TFW=That feeling when
+MFW=My face when
+MRW=My reaction when
+IFYP=I feel your pain
+LOL=Laughing out loud
+TNTL=Trying not to laugh
+JK=Just kidding
+IDC=I don’t care
+ILY=I love you
+IMU=I miss you
+ADIH=Another day in hell
+ZZZ=Sleeping, bored, tired
+WYWH=Wish you were here
+TIME=Tears in my eyes
+BAE=Before anyone else
+FIMH=Forever in my heart
+BSAAW=Big smile and a wink
+BWL=Bursting with laughter
+LMAO=Laughing my a** off
+BFF=Best friends forever
+CSL=Can’t stop laughing
